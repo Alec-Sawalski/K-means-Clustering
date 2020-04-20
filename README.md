@@ -15,3 +15,7 @@
 #### Histograms - BHBA, NEFA, FPR
 <img src = https://user-images.githubusercontent.com/61294969/79789436-cd47bc00-830f-11ea-8b4d-94cf9d790b28.png>
 
+#### K-means Partition Comparison and SSI Criterion
+<img src = https://user-images.githubusercontent.com/61294969/79789553-03853b80-8310-11ea-846b-1cc8abc7958b.png>
+
+
