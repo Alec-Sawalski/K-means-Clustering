@@ -12,6 +12,6 @@
     
 <img src = https://user-images.githubusercontent.com/61294969/79788747-bd7ba800-830e-11ea-8862-5b68d6aeb24b.png>
 
-
-
+#### Histograms - BHBA, NEFA, FPR
+<img src = https://user-images.githubusercontent.com/61294969/79789436-cd47bc00-830f-11ea-8b4d-94cf9d790b28.png>
 
