@@ -23,5 +23,5 @@
     508  25 179 
 
 #### GG Plot - BHBA, NEFA, & FPR
-<img src = https://user-images.githubusercontent.com/61294969/79789909-8d350900-8310-11ea-846c-7c45aab26bfa.png>
+
 
